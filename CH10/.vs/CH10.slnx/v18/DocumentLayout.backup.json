@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AA7CF5F-1627-FCBC-39F3-3D4F726E3829}|CH10Q01\\CH10Q01.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA7CF5F-1627-FCBC-39F3-3D4F726E3829}|CH10Q01\\CH10Q01.csproj|solutionrelative:ch10q01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DDF658-F2D6-45C4-B57F-FC6765241BA6}|CH10Q05\\CH10Q05.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DDF658-F2D6-45C4-B57F-FC6765241BA6}|CH10Q05\\CH10Q05.csproj|solutionrelative:ch10q05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97263FB0-A7AF-46FD-A824-D6BB69EB45BA}|CH10Q03\\CH10Q03.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97263FB0-A7AF-46FD-A824-D6BB69EB45BA}|CH10Q03\\CH10Q03.csproj|solutionrelative:ch10q03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA007584-CEA1-4548-9EB1-60289CA43EBE}|CH10Q04\\CH10Q04.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA007584-CEA1-4548-9EB1-60289CA43EBE}|CH10Q04\\CH10Q04.csproj|solutionrelative:ch10q04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DDF658-F2D6-45C4-B57F-FC6765241BA6}|CH10Q05\\CH10Q05.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q05\\ch10q05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57DDF658-F2D6-45C4-B57F-FC6765241BA6}|CH10Q05\\CH10Q05.csproj|solutionrelative:ch10q05\\ch10q05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA007584-CEA1-4548-9EB1-60289CA43EBE}|CH10Q04\\CH10Q04.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q04\\ch10q04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA007584-CEA1-4548-9EB1-60289CA43EBE}|CH10Q04\\CH10Q04.csproj|solutionrelative:ch10q04\\ch10q04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84027994-DB2B-4D02-8872-A9C323A99652}|CH10Q02\\CH10Q02.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84027994-DB2B-4D02-8872-A9C323A99652}|CH10Q02\\CH10Q02.csproj|solutionrelative:ch10q02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84027994-DB2B-4D02-8872-A9C323A99652}|CH10Q02\\CH10Q02.csproj|c:\\users\\ajffj\\documents\\github\\charp_exercises\\ch10\\ch10q02\\ch10q02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84027994-DB2B-4D02-8872-A9C323A99652}|CH10Q02\\CH10Q02.csproj|solutionrelative:ch10q02\\ch10q02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +41,94 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CH10Q05",
+              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q05\\CH10Q05.csproj",
+              "RelativeDocumentMoniker": "CH10Q05\\CH10Q05.csproj",
+              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q05\\CH10Q05.csproj",
+              "RelativeToolTip": "CH10Q05\\CH10Q05.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T03:48:06.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q01\\Program.cs",
-              "RelativeDocumentMoniker": "CH10Q01\\Program.cs",
-              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q01\\Program.cs",
-              "RelativeToolTip": "CH10Q01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q05\\Program.cs",
+              "RelativeDocumentMoniker": "CH10Q05\\Program.cs",
+              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q05\\Program.cs*",
+              "RelativeToolTip": "CH10Q05\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:14:49.889Z",
+              "WhenOpened": "2026-09-30T03:48:00.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CH10Q04",
+              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q04\\CH10Q04.csproj",
+              "RelativeDocumentMoniker": "CH10Q04\\CH10Q04.csproj",
+              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q04\\CH10Q04.csproj",
+              "RelativeToolTip": "CH10Q04\\CH10Q04.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T03:36:41.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q04\\Program.cs",
+              "RelativeDocumentMoniker": "CH10Q04\\Program.cs",
+              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q04\\Program.cs",
+              "RelativeToolTip": "CH10Q04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:36:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q03\\Program.cs",
+              "RelativeDocumentMoniker": "CH10Q03\\Program.cs",
+              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q03\\Program.cs",
+              "RelativeToolTip": "CH10Q03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:26:07.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CH10Q02",
+              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q02\\CH10Q02.csproj",
+              "RelativeDocumentMoniker": "CH10Q02\\CH10Q02.csproj",
+              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q02\\CH10Q02.csproj",
+              "RelativeToolTip": "CH10Q02\\CH10Q02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T03:23:26.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q02\\Program.cs",
+              "RelativeDocumentMoniker": "CH10Q02\\Program.cs",
+              "ToolTip": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH10\\CH10Q02\\Program.cs",
+              "RelativeToolTip": "CH10Q02\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:51:33.926Z",
               "EditorCaption": ""
             }
           ]

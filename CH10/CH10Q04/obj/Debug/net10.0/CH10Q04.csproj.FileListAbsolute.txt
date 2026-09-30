@@ -1,0 +1,16 @@
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\bin\Debug\net10.0\CH10Q04.exe
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\bin\Debug\net10.0\CH10Q04.deps.json
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\bin\Debug\net10.0\CH10Q04.runtimeconfig.json
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\bin\Debug\net10.0\CH10Q04.dll
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\bin\Debug\net10.0\CH10Q04.pdb
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.AssemblyInfoInputs.cache
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.AssemblyInfo.cs
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.csproj.CoreCompileInputs.cache
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.sourcelink.json
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.dll
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\refint\CH10Q04.dll
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.pdb
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.genruntimeconfig.cache
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\ref\CH10Q04.dll
+C:\Users\ajffj\Documents\GitHub\charp_exercises\CH10\CH10Q04\obj\Debug\net10.0\CH10Q04.csproj.Up2Date
