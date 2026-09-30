@@ -6,4 +6,7 @@
   <Project Path="CH10Q05/CH10Q05.csproj" Id="57ddf658-f2d6-45c4-b57f-fc6765241ba6" />
   <Project Path="CH10Q06/CH10Q06.csproj" Id="cf35ac9e-3048-428b-8605-afea052300c4" />
   <Project Path="CH10Q07/CH10Q07.csproj" Id="7a8e7a7d-f640-4f38-b30c-0a648748cc1c" />
+  <Project Path="CH10Q08/CH10Q08.csproj" Id="ffa9d995-0cad-40e5-be51-233539052023" />
+  <Project Path="CH10Q09/CH10Q09.csproj" Id="2dc3bb5c-a7dd-45ac-92b4-dbcdb14f6826" />
+  <Project Path="CH10Q10/CH10Q10.csproj" Id="0db1dc63-d232-4e78-8d17-018ff321f9c0" />
 </Solution>

@@ -23,10 +23,6 @@ while(count < a)
         {
             memo += ", ";
         }
-        else
-        {
-            continue;
-        }
     }
 }
 

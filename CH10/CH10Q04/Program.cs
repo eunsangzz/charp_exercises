@@ -22,7 +22,6 @@ for (int i = 0; i < 3; i++)
         {
             count++;
             Console.WriteLine("범위 오류");
-            continue;
         }
     }
     else

@@ -1,34 +1,35 @@
 ﻿using System;
 
 int a = int.Parse(Console.ReadLine());
-int group = 1;
-int total = 0;
+int total = 0; //전체수량
 
-for(int i = 0; i < a; i++)
+for (int i = 1; i <= a; i++)
 {
+    int num1 = 0; //묶음별 유효묶음
+    int num2 = 0; //묶음별 전체묶음
+
     while (true)
     {
         int b = int.Parse(Console.ReadLine());
-        int sum = 0;
+        int sum = 0; //수량합
 
         if (b >= 0)
         {
+            num1++;
             if (b > 0)
             {
-                total++;
                 sum += b;
-                if (sum == 0)
-                {
-                    break;
-                }
+                total += sum;
+                num2++;
             }
-            else
+            if (sum == 0)
             {
-                total++;
-                continue;
+                break;
             }
         }
-
-        Console.WriteLine($"")
     }
+
+    Console.WriteLine($"묶음 {i}: {num2}건 / {num1}개");
 }
+
+Console.WriteLine($"전체 수량: {total}");
