@@ -2,17 +2,26 @@
 
 int n = int.Parse(Console.ReadLine());
 
-float[] arr = new float[n];
+int[] arr = new int[n];
 
 for(int i = 0; i < n; i++)
 {
-    float value = float.Parse(Console.ReadLine());
+    int value = int.Parse(Console.ReadLine());
     arr[i] = value;
 }
 
-foreach(float i in arr)
+for (int i = 0; i < n / 2; i++)
 {
-    
+    int temp = arr[i];
+    arr[i] = arr[n - 1 - i];
+    arr[n - 1 - i] = temp;
 }
 
-Console.WriteLine($"목록: {arr}");
+Console.Write("목록:");
+
+foreach(int value in arr)
+{
+    Console.Write($" {value}");
+}
+
+Console.WriteLine();
