@@ -1,10 +1,12 @@
 ﻿using System;
 
 int num = int.Parse(Console.ReadLine());
+
 string[] name = new string[num];
 int[] first = new int[num];
 int[] second = new int[num];
-int[] vs = new int[num];
+
+int max = 0;
 
 for(int i = 0; i < num; i++)
 {
@@ -13,17 +15,38 @@ for(int i = 0; i < num; i++)
     second[i] = int.Parse(Console.ReadLine());
 }
 
-for(int i = 0;i < num; i++)
+for (int i = 0; i < num; i++)
 {
-    vs[i] = second[i] - first[i];
-    if (vs[i] >= 0)
+    int up = second[i] - first[i];
+
+    if (up > 0)
     {
-        Console.WriteLine(name[i] + $": +{vs[i]}");
-    }
-    else
-    {
-        Console.WriteLine(name[i] + $": -{vs[i]}");
+        Console.WriteLine($"{name[i]}: +{up}");
+
+        if (up > max)
+        {
+            max = up;
+        }
     }
 }
 
-if()
+if (max == 0)
+{
+    Console.WriteLine("최고 향상: 없음");
+}
+else
+{
+    Console.Write("최고 향상:");
+
+    for (int i = 0; i < num; i++)
+    {
+        int up = second[i] - first[i];
+
+        if (up == max)
+        {
+            Console.Write($" {name[i]}");
+        }
+    }
+
+    Console.WriteLine();
+}
