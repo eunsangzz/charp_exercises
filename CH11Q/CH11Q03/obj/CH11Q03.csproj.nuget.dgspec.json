@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\develocat\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj": {}
+    "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj": {}
   },
   "projects": {
-    "E:\\develocat\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj": {
+    "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\develocat\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj",
+        "projectUniqueName": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj",
         "projectName": "CH11Q03",
-        "projectPath": "E:\\develocat\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj",
+        "projectPath": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH11Q\\CH11Q03\\CH11Q03.csproj",
         "packagesPath": "C:\\Users\\ajffj\\.nuget\\packages\\",
-        "outputPath": "E:\\develocat\\charp_exercises\\CH11Q\\CH11Q03\\obj\\",
+        "outputPath": "C:\\Users\\ajffj\\Documents\\GitHub\\charp_exercises\\CH11Q\\CH11Q03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

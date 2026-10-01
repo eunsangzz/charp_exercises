@@ -5,6 +5,8 @@
   <Project Path="CH11Q04/CH11Q04.csproj" Id="243d8b4e-cbce-4774-92b2-cb91617da740" />
   <Project Path="CH11Q05/CH11Q05.csproj" Id="5720e238-b3e4-4802-9f59-b1f2278fe178" />
   <Project Path="CH11Q06/CH11Q06.csproj" Id="4ee1adb0-a7c3-4e94-84b0-7cddc9df0466" />
+  <Project Path="CH11Q07/CH11Q07.csproj" Id="a2ddaefd-e2f5-4bab-bcb0-92650fa0b6d6" />
   <Project Path="CH11Q08/CH11Q08.csproj" Id="845a2211-1521-4c72-a3f5-00dcac2fec86" />
   <Project Path="CH11Q09/CH11Q09.csproj" Id="e4d0462c-f924-4f1b-a6c3-5d9f168bf621" />
+  <Project Path="CH11Q10/CH11Q10.csproj" Id="ea01990b-c141-460b-b0f8-9aec6bce1ae0" />
 </Solution>
